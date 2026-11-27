@@ -39,16 +39,20 @@
         "yaml_option": ["daresanity"]
     },
     "NoCrash":{
-        "yaml_option": ["!exclude_all_deathless_dares"]
+        "yaml_option": ["!exclude_all_deathless_dares"],
+        "hidden": true
     },
     "NoCrashBoss":{
-        "yaml_option": ["!exclude_only_boss_deathless_dares"]
+        "yaml_option": ["!exclude_only_boss_deathless_dares"],
+        "hidden": true
     },
     "CollectibleDares":{
-        "yaml_option": ["!exclude_collect_x_object_dares"]
+        "yaml_option": ["!exclude_collect_x_object_dares"],
+        "hidden": true
     },
     "FirstPlace":{
-        "yaml_option": ["!exclude_get_first_place_dares"]
+        "yaml_option": ["!exclude_get_first_place_dares"],
+        "hidden": true
     },
     "SprayCans":{
         "yaml_option": ["spray_can_pickup_checks"]
