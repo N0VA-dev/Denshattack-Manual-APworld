@@ -24,13 +24,16 @@
         "yaml_option": ["time_medal_checks"]
     },
     "BronzeMedals":{
-        "yaml_option": ["include_bronze_medals"]
+        "yaml_option": ["include_bronze_medals"],
+        "hidden": true
     },
     "SilverMedals":{
-        "yaml_option":["include_silver_medals"]
+        "yaml_option":["include_silver_medals"],
+        "hidden": true
     },
     "GoldMedals":{
-        "yaml_option":["include_gold_medals"]
+        "yaml_option":["include_gold_medals"],
+        "hidden": true
     },
     "Dares":{
         "yaml_option": ["daresanity"]
