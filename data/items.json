@@ -1,0 +1,425 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Beppu Star",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Shikoku Hot Rod",
+      "category": [
+        "Train"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hybrid Punch",
+      "category": [
+        "Train"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hiroshima Slugger",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Kyushu Mk5",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Queen Leader",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Shiokaze Storm",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Light Romancer",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Night Dancer",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Beppu Superstar",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Home Runner",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Iron Greaser",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Hip Flip",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Passion Pit",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Devil Catcher",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Albino Spider",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Firebringer",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Nekoden",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sunrise Pitcher",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Forest DX",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Road Fighter",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Chunky Fashion",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blind Liner",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Flying Snake",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Stolen Patroller",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rocket Cowl",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tokyo Core",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Myu Enforcer",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Romancer",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rhythm Bullet",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Salmon Engine",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Silent Monster",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Freight Horse",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Morzilla Skater",
+      "category": [
+        "Train"
+      ],
+      "useful": true
+    },
+    {
+      "count": 9,
+      "name": "Progressive Region",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 4,
+      "name": "Progressive Trick",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 134,
+      "name": "Spray Can",
+      "category": [
+        "SprayCan"
+      ],
+      "progression": true
+    },
+    {
+      "count": 65,
+      "name": "Film Roll",
+      "category": [
+        "FilmRoll"
+      ],
+      "progression": true
+    },
+    {
+      "count": 110,
+      "name": "Gear",
+      "category": [
+        "Gear"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Manuals",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rail Grind",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grind Tricks",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wall Ride",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wall Ride Tricks",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tunnel Slide",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Monorail",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Monorail Tricks",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Yukaze",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ice Slide",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Slide Tricks",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Doubledrift",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gravity Switch",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aqua-Line",
+      "category": [
+        "Movement"
+      ],
+      "progression": true
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Kyushu Pre-RailGrind": {
+    "starting": true,
+    "connects_to": [
+      "Kyushu Post-RailGrind",
+      "Kumamoto Castle"
+    ],
+    "requires": ""
+  },
+  "Kyushu Post-RailGrind": {
+    "connects_to": [
+      "Kyushu Post-Manuals"
+    ],
+    "requires": "|Rail Grind|"
+  },
+  "Kyushu Post-Manuals": {
+    "connects_to": [
+      "Chugoku One"
+    ],
+    "requires": "|Manuals| AND |Progressive Trick|"
+  },
+  "Chugoku One": {
+    "connects_to": [
+      "Shikoku",
+      "Matsue Castle"
+    ],
+    "requires": "|Progressive Region:1| AND |Wall Ride|"
+  },
+  "Shikoku": {
+    "connects_to": [
+      "Shikoku Post-Tunnels"
+    ],
+    "requires": "|Progressive Region:2|"
+  },
+  "Shikoku Post-Tunnels":{
+    "connects_to": [
+      "Shikoku Post-Trickster"
+    ],
+    "requires": "|Tunnel Slide|"
+  },
+    "Shikoku Post-Trickster":{
+    "connects_to": [
+      "Chugoku Two",
+      "Kochi Castle"
+    ],
+    "requires": "|Shikoku Hot Rod|"
+  },
+  "Chugoku Two": {
+    "connects_to": [
+      "Kansai"
+    ],
+    "requires": "|Progressive Region:3| AND |Aqua-Line|"
+  },
+  "Kansai": {
+    "connects_to": [
+      "Kansai Post-Yukaze",
+      "Himeji Castle"
+    ],
+    "requires": "|Progressive Region:4| AND |Monorail|"
+  },
+  "Kansai Post-Yukaze": {
+    "connects_to": [
+      "Chubu"
+    ],
+    "requires": "|Yukaze|"
+  },
+  "Chubu": {
+    "connects_to": [
+      "Chubu PoliceTrain",
+      "Maruoka Castle"
+    ],
+    "requires": "|Progressive Region:5|"
+  },
+  "Chubu PoliceTrain": {
+    "connects_to": [
+      "Chubu Post-Sliding"
+    ],
+    "requires": "|Hybrid Punch|"
+  },
+  "Chubu Post-Sliding": {
+    "connects_to": [
+      "Kanto",
+      "Matsumoto Castle"
+    ],
+    "requires": "|Ice Slide|"
+  },
+  "Kanto": {
+    "connects_to": [
+      "Tohoku",
+      "Otaki Castle"
+    ],
+    "requires": "|Progressive Region:6| AND |Doubledrift|"
+  },
+  "Tohoku": {
+    "connects_to": [
+      "Hokkaido",
+      "Hirosaki Castle"
+    ],
+    "requires": "|Progressive Region:7| AND |Gravity Switch|"
+  },
+  "Hokkaido": {
+    "connects_to": [
+      "Hokkaido - Space"
+    ],
+    "requires": "|Progressive Region:8|"
+  },
+  "Hokkaido - Space": {
+    "connects_to": [],
+    "requires": "|Progressive Region:9|"
+  },
+  "Kumamoto Castle":{
+    "connects_to": [],
+    "requires": "|Spray Can:1|"
+  },
+  "Matsue Castle":{
+    "connects_to": [],
+    "requires": "|Spray Can:12|"
+  },
+  "Kochi Castle":{
+    "connects_to": [],
+    "requires": "|Spray Can:27| OR |Gear:2|"
+  },
+  "Himeji Castle":{
+    "connects_to": [],
+    "requires": "|Spray Can:43| OR |Gear:16|"
+  },
+  "Maruoka Castle":{
+    "connects_to": [],
+    "requires": "|Spray Can:59| OR |Gear:32|"
+  },
+  "Matsumoto Castle":{
+    "connects_to": [],
+    "requires": "|Spray Can:77| OR |Gear:50|"
+  },
+  "Otaki Castle":{
+    "connects_to": [],
+    "requires": "|Spray Can:96| OR |Gear:68|"
+  },
+  "Hirosaki Castle":{
+    "connects_to": [],
+    "requires": "|Spray Can:116| OR |Gear:91|"
+  }
+}

@@ -1,0 +1,68 @@
+{
+    "Train":{
+        
+    },
+    "SprayCan":{
+
+    },
+    "FilmRoll":{
+
+    },
+    "Gear":{
+
+    },
+    "Movement":{
+        "yaml_option": ["randomize_movement"]
+    },
+    "LevelClear":{
+        "yaml_option": ["level_clear_checks"]
+    },
+    "ScoreMedals":{
+        "yaml_option": ["score_medal_checks"]
+    },
+    "TimeMedals":{
+        "yaml_option": ["time_medal_checks"]
+    },
+    "BronzeMedals":{
+        "yaml_option": ["include_bronze_medals"]
+    },
+    "SilverMedals":{
+        "yaml_option":["include_silver_medals"]
+    },
+    "GoldMedals":{
+        "yaml_option":["include_gold_medals"]
+    },
+    "Dares":{
+        "yaml_option": ["daresanity"]
+    },
+    "NoCrash":{
+        "yaml_option": ["!exclude_all_deathless_dares"]
+    },
+    "NoCrashBoss":{
+        "yaml_option": ["!exclude_only_boss_deathless_dares"]
+    },
+    "CollectibleDares":{
+        "yaml_option": ["!exclude_collect_x_object_dares"]
+    },
+    "FirstPlace":{
+        "yaml_option": ["!exclude_get_first_place_dares"]
+    },
+    "SprayCans":{
+        "yaml_option": ["spray_can_pickup_checks"]
+    },
+    "Gears":{
+        "yaml_option": ["gear_pickup_checks"]
+    },
+    "FilmRolls":{
+        "yaml_option": ["film_roll_pickup_checks"]
+    },
+    "StickerShop":{
+        "yaml_option": ["sticker_shop_checks"]
+    },
+    "TrainShop":{
+        "yaml_option": ["train_shop_checks"]
+    },
+    "FanZines":{
+        "yaml_option": ["complete_fanzine_checks"]
+    }
+}
