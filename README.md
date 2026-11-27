@@ -16,6 +16,8 @@ This Denshattack manual features 2 progressive items, Tricks and Regions. Progre
 
 Progressive Trick gates your ability to perform tricks. At 0 Progressive Trick items recieved, you are NOT able to perform ANY tricks at all. This increases with each Progressive Trick recieved, with 1 item allowing Basic Tricks, progressing through each category in the Tricktionary up to allowing all Tricks at 4 items recieved. Tricks which require you to be currently doing a specific movement mechanic, such as Grind Tricks, are their own item if movement is randomized, and freely usable if not.
 
+* There is ONE EXCEPTION for the use of Progressive Trick. For the purpose of clearing level 1-1-2, you may perform tricks following the direction of the tutorial while on the conveyor rail. Afterwards, Arial Transfers count as tricks to satisfy the "Perform 5 Tricks" Requirement. This is to prevent sphere 1 consisting of exactly 1 check, for clearing 1-1-1.
+
 # About Death
 
 This manual has Death Link. Recieving a Death means you should crash your train as soon as possible, WITHOUT banking any accumulated score. This can usually be accomplished by immediately inputting a fully charged jump to derail yourself, but may need more improvisation. You should send a Death when you crash your train, but it is recommended to be more discriminating. I used a mental Deathlink Amnesty, sending Death only every 5 crashes, but you could just as easily come up with other conditions, such as sending only if you crash with a high combo.
